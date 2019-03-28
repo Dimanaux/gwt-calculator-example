@@ -1,5 +1,7 @@
 # gwt-calculator-example
-Simple example of GWT application
+Simple example of GWT application.
+
+Requires JDK 8 (exactly), GWT-2.8.5.
 
 ### What you should pay attention to.
 
